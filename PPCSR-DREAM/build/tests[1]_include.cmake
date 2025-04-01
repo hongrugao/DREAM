@@ -1,0 +1,5 @@
+if(EXISTS "/home/ghr/PPCSR_ori_reservation/parallel-packed-csr/build/tests[1]_tests.cmake")
+  include("/home/ghr/PPCSR_ori_reservation/parallel-packed-csr/build/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()
