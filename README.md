@@ -1,7 +1,7 @@
 # DREAM
 A novel system for accelerating the reconstruction process on PMA-based dynamic graph processing systems. DREAM has been integrated into three existing systems: PPCSR(https://github.com/domargan/parallel-packed-csr), Terrace(https://github.com/PASSIONLab/terrace), and VCSR(https://github.com/DIR-LAB/VCSR).
 
-#Submission
+Submission:
 This work has been submitted to VLDB26: "DREAM: Alleviating Reconstruction Cost in Dynamic Graph Processing Systems"
 
 # Authors
